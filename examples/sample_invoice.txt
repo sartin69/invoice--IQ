@@ -1,0 +1,10 @@
+Supplier: ABC Supplies LLC
+Supplier Tax ID: 100123456700003
+Invoice Number: INV-1042
+Invoice Date: 2026-09-15
+Due Date: 2026-10-15
+Customer: Example Trading LLC
+Currency: AED
+Subtotal: 1000.00
+Tax: 50.00
+Total: 1050.00

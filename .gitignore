@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+evaluation/results/*.json
+!evaluation/results/.gitkeep
+uploads/
+*.log
+
